@@ -1,0 +1,38 @@
+nav{
+margin:20px 0px;
+padding-right:70px;
+padding:20px 0px;
+text-align: center;
+}
+
+nav a {
+text-decoration:none;
+padding:1px;
+color:white;
+}
+
+.textpocentrybl {
+  text-align: center;
+}
+
+.dashed {
+border: 10px dashed black;   
+} 
+
+.solid{
+border:10px solid black;   
+}
+
+.dotted {
+border: 10px dotted black;   
+}
+
+.ogo{
+width: 100px;
+height: 100px;
+}
+
+body {
+    /*font-family: sans-serif;*/
+    background-image: linear-gradient(#8DF244, #1DCBF2, #F26BB5, #F2BC79, #D95032);
+}
